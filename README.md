@@ -1,3 +1,3 @@
 # Machine-Learning-Fake-News-Prediction-System
 
-Dataset Link: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0l5enNxZThzRGw1cm5rTS1TS2k1OXV5WDMtUXxBQ3Jtc0tsWUJPZW5HRWh0YVhxNHVPU3hlYXk3cVNJY29ObEN6U3lLeXdhYVFnV1BCeEhOenp3bzFCLTVoVzdKLUpGYUN3OGJfU3dEOWJ6M3l1aXBnUndsbHQxbkNIMXlHOWdMS0FJMGRvSlhRa0s2TGJJQWNHSQ&q=https%3A%2F%2Fwww.kaggle.com%2Fc%2Ffake-news%2Fdata%3Fselect%3Dtrain.csv&v=nacLBdyG6jE
+Dataset Link: https://www.kaggle.com/c/fake-news/data?select=train.csv
